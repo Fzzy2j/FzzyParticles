@@ -1,0 +1,10 @@
+name: FzzyParticles
+version: @version@-@apiversion@
+description: Particles Plugin
+authors: [Fzzy]
+
+main: me.fzzy.fzzyparticles.FzzyParticles
+commands:
+  fzzyp:
+     description: controls the plugin
+     aliases: fp
